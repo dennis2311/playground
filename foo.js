@@ -2,4 +2,9 @@ function awesomeFunction() {
     console.log("some fixed things");
 }
 
-awesomeFunction();
+function awesomeTwiceFunction() {
+    awesomeFunction()
+    awesomeFunction()
+}
+
+awesomeTwiceFunction();
