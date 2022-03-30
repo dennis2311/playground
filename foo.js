@@ -1,5 +1,5 @@
 function awesomeFunction() {
-    console.log("print some awesome lines");
+    console.log("some fixed things");
 }
 
 awesomeFunction();
