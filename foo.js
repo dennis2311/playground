@@ -8,6 +8,8 @@ function awesomeTwiceFunction() {
     awesomeFunction();
 }
 
-function otherfunction() {}
+function otherfunction() {
+    console.log("some fix");
+}
 
 awesomeTwiceFunction();
