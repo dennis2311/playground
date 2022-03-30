@@ -1,5 +1,5 @@
 function awesomeFunction() {
-    console.log("some fixed things");
+    console.log("completed other way");
     console.log("...and more fixed things");
 }
 
