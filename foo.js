@@ -1,11 +1,11 @@
 function awesomeFunction() {
-    console.log("some fixed things");
+    console.log("compeleted");
     console.log("...and more fixed things");
 }
 
 function awesomeTwiceFunction() {
-    awesomeFunction()
-    awesomeFunction()
+    awesomeFunction();
+    awesomeFunction();
 }
 
 awesomeTwiceFunction();
